@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kadir Metehan AKDEMİR</h1>
+
+
+I am a Computer Engineering student at İskenderun Technical University. I have experience in network security, software development, and ethical hacking.
+
 - 📫 How to reach me **metehan.akdmr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
