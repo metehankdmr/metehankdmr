@@ -26,4 +26,7 @@ I am a Computer Engineering student at İskenderun Technical University and  cur
 
 
 ###
+<img src="https://raw.githubusercontent.com/metehankdmr/metehankdmr/output/snake.svg" alt="Snake animation" />
+
+###
 
