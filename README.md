@@ -14,9 +14,7 @@ I am a Computer Engineering student at İskenderun Technical University and  cur
   <a href="https://www.linkedin.com/in/kadir-metehan-akdemir-9ab3a52aa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/metehan.akdmr@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  
 </div>
 
 ###
